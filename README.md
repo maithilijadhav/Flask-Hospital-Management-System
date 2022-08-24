@@ -3,6 +3,6 @@
   
 
   
-  While using this application in Python with Flask, for its UI elements Bootstrap and some Vanilla CSS is used too. To store the information of the patients, doctors and appointments, SQlite is used as the database. Uses CRUD for the all the features lisyed above.
+  While using this application in Python with Flask, for its UI elements Bootstrap and some Vanilla CSS is used too. To store the information of the patients, doctors and appointments, SQlite is used as the database. Uses CRUD (Create, Retrieve, Update and Delete) for the all the features listed above.
 
 To run the application download what is needed in requirements.txt and run "python run.py" in command prompt.
