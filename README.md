@@ -1,5 +1,5 @@
 # Flask-Hospital-Management-System
-  A project based on a Hospital Management System which uses Python with Flask Web Framework. It has features that enable users to interact and update/delete/add patients, doctors and appointments (uses CRUD (Create, Retrieve, Update and Delete) for the all the features listed above). Also, the system displays all the available details of patients, and doctors with their respective names, contact information, address, date, and time. In addition, the system lists out all the available appointments which include doctor’s and patient’s names with their date and time respectively. 
+  A project based on a Hospital Management System which uses Python with Flask Web Framework. It has features that enable users to interact and update/delete/add patients, doctors and appointments (uses CRUD (Create, Retrieve, Update and Delete) and HTTP methods for the all the features listed above). Also, the system displays all the available details of patients, and doctors with their respective names, contact information, address, date, and time. In addition, the system lists out all the available appointments which include doctor’s and patient’s names with their date and time respectively. 
   
 
   
